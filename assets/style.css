@@ -97,13 +97,13 @@ body {
     z-index: 0;
 }
 .picture img {
-    height: 400px;
-    width: 398px;
+    height: auto;
+    width: 100%;
 }
 
-.service__price p{
+.service__price h4{
     font-weight: 700;
-    font-size: 25px;}
+    font-size: 23px;}
 
 .carousel-item img {
     height: 100% ;
